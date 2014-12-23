@@ -4,7 +4,7 @@ title: Tasty Road Rage
 disqus: y
 share: y
 date: 2014-12-23 16:30:00
-tags: [sweets, party, boys, dessert]
+tags: [party, dessert]
 ---
 
 # Tiny Teddy Racers
