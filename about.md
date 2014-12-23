@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+This should be something for people to read and get to know me, so here's my attempt: This is [Katie Ball](http://katieball.me), a designer developer who lives in Melbourne at the moment.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Tweet at [@metball](https://twitter.com/mektball), hack my code on [GitHub](http://github.com/roachhd), see my games on [itunes](https://itunes.apple.com/us/artist/katie-ball/id910378027), read my [CV](http://katieball.me/about/me/cv/).
 
 This theme is made by me. You have a nice day. ♥
