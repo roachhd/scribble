@@ -1,23 +1,22 @@
 title:            Scribble
-description:      A jekyll theme. Because I scribble.
+description:      Jekyll for recipes. Because I scribble.
 baseurl:          /scribble/
 url:              http://roachhd.github.io/scribble/
-signoff:          # Your name.
-disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
+signoff:          Katie Ball.
+disqus_shortname: kbscribble
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         About
-    url:          /about
+    url:          /scribble/about
   - name:         Blog
-    url:          http://muan.co
-    external:     true
+    url:          /scribble/
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:scribble@roachhd.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/roachhd
+    url:          http://github.com/roachhd/scribble
     external:     true
 highlighter:      pygments
 permalink:        pretty
