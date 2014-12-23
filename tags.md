@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Recipe by Tags
+title: Recipes by Tags
 ---
-
-<a href="https://github.com/muan/scribble" target="_blank" class="big-button gray">Get it on GitHub &hearts;</a>
 
 {% assign tags_list = site.tags %}  
 {% if tags_list.first[0] == null %}
