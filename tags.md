@@ -3,7 +3,8 @@ layout: page
 title: Recipe by Tags
 ---
 
-<ul class="tag-box inline">
+<a href="https://github.com/muan/scribble" target="_blank" class="big-button gray">Get it on GitHub &hearts;</a>
+
 {% assign tags_list = site.tags %}  
 {% if tags_list.first[0] == null %}
 {% for tag in tags_list %} 
