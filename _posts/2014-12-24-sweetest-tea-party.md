@@ -5,7 +5,7 @@ disqus: y
 date: 2014-12-24 16:30:00
 ---
 
-### Tic Toc Tea Cups
+# Tic Toc Tea Cups
 
 {% highlight ruby %}
  Ingredients
@@ -19,7 +19,8 @@ date: 2014-12-24 16:30:00
 
 {% highlight ruby %}
 Method
-- Lay out the Tic Toc biscuits on a serving platter. Use the melted chocolate to 'glue' a marshmallow to the centre of each biscuit.
+- Lay out the Tic Toc biscuits on a serving platter. 
+- Use the melted chocolate to 'glue' a marshmallow to the centre of each biscuit.
 - Place a dot of glue on the top of each marshmallow and place a Freckle on top.
 - Place a dot of glue on the cut surfaces of each Lifesaver half and stick it to the side for a cup handle.
 {% endhighlight %}
@@ -27,7 +28,7 @@ Method
 
 --- 
 
-*notes*: If you don't have chocolate to use as the glue, you can make a paste using icing sugar with a few drops of water to stick these together.
+**notes**: If you don't have chocolate to use as the glue, you can make a paste using icing sugar with a few drops of water to stick these together.
 
 ---
 
