@@ -1,11 +1,7 @@
 Scribble
 ========
 
-A jekyll theme. [Want a demo? click and read instruction. :point_left:](http://scribble.muan.co/2013/05/06/scribble-the-jekyll-theme/)
-<br />
-[More themes](https://github.com/muan/muan.github.com/releases).
-
-![screenshot](http://scribble.muan.co/images/screenshot.png)
+A jekyll theme for scribble recipes.
 
 There is no clever design philosophy to talk about, I tried to find something to work with, and 'scribble' came to my mind. 
 
@@ -17,7 +13,7 @@ The theme is mobile optimised but I did not check browser compatibility. It look
 
 ### Get started
 
-1. [Fork the repository](https://github.com/muan/scribble/fork).
+1. [Fork the repository](https://github.com/roachhd/scribble/fork).
 2. Clone the repository to your computer.<br /> `git clone https://github.com/username/scribble`
 3. `bundle install`
 4. **Using older versions of Jekyll**<br />
@@ -59,5 +55,5 @@ When writing a post, there are 3 options you can add to the header.
 
 ### The end
 
-Like it? [Tell me](http://twitter.com/muanchiou).<br/>
-Question? [Use GitHub Issues](https://github.com/muan/scribble/issues).
+Like it? [Tell me](http://twitter.com/mektball).<br/>
+Question? [Use GitHub Issues](https://github.com/roachhd/scribble/issues).
