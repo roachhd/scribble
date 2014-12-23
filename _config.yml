@@ -1,21 +1,20 @@
-title:            Scribble
+title:            Tasty Scribble
 description:      Jekyll for recipes. Because I scribble.
 baseurl:          /scribble/
 url:              http://roachhd.github.io/scribble/
-signoff:          Katie Ball.
+signoff:          Katie B
 disqus_shortname: kbscribble
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
+  - name:         Home
+    url:          /scribble/
   - name:         About
     url:          /scribble/about
-  - name:         Blog
-    url:          /scribble/
-  - name:         Email
-    url:          mailto:scribble@roachhd.com
-    external:     true
-  - name:         GitHub
+  - name:         Tags
+    url:          /scribble/tags
+  - name:         Github
     url:          http://github.com/roachhd/scribble
     external:     true
 highlighter:      pygments
