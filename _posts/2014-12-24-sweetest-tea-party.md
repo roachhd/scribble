@@ -1,7 +1,7 @@
 --
 layout: post
 disqus: y
-title: Sweet Tea Party
+title: Sweetest Tea Party
 date: 2014-12-24 16:30:00
 ---
 
