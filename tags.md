@@ -8,11 +8,11 @@ title: Recipe by Tags
 {% assign tags_list = site.tags %}  
 {% if tags_list.first[0] == null %}
 {% for tag in tags_list %} 
-<li class="big-button gray"> <a href="#{{ tag }}">{{ tag | capitalize }} <span>{{ site.tags[tag].size }}</span></a></li>
+<a href="#{{ tag }}" class="big-button gray">{{ tag | capitalize }} {{ site.tags[tag].size }}</a>
 {% endfor %}
 {% else %}
 {% for tag in tags_list %} 
-<li><a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a></li>
+<a href="#{{ tag[0] }}" class="big-button gray">{{ tag[0] | capitalize }} {{ tag[1].size }}</a>
 {% endfor %}
 {% endif %}
 {% assign tags_list = nil %}
