@@ -3,6 +3,11 @@ Scribble
 
 A jekyll theme for scribble recipes.
 
+
+![Travis-ci status](http://travis-ci.org/roachhd/scribble.svg?gh-pages=43905720)
+[![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
+
+
 There is no clever design philosophy to talk about, I tried to find something to work with, and 'scribble' came to my mind. 
 
 This theme uses Open Sans powered by Google Web Fonts, and was written in plain HTML, SCSS & CoffeeScript, though .scss & .coffee files wouldn't be included in the theme. 
