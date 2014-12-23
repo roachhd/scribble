@@ -4,7 +4,7 @@ title: Sweetest Tea Party
 disqus: y
 share: y
 date: 2014-12-24 16:30:00
-tags: [sweets, party, girls, dessert]
+tags: [party, dessert]
 ---
 
 # Tic Toc Tea Cups
