@@ -1,4 +1,4 @@
-title:            Tasty Scribble
+title:            Tasty Scribbles
 description:      Jekyll for recipes. Because I scribble.
 baseurl:          /scribble/
 url:              http://roachhd.github.io/scribble/
@@ -14,7 +14,7 @@ links:
     url:          /scribble/about
   - name:         Tags
     url:          /scribble/tags
-  - name:         Github
+  - name:         Source
     url:          http://github.com/roachhd/scribble
     external:     true
 highlighter:      pygments
