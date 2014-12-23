@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Sugar &amp; Charm 
+title: Sugar &amp; Charm
+date: 2014-12-23 16:30:00
+disqus: y
+share: y
+tags: [snack, entertainer, starter]
 ---
 
 # Sugar and Charm 
@@ -10,7 +14,8 @@ If you think you don't like beets, you haven't had them like this! The vibrant c
 
 ---
 
-###### Ingredients
+###### Ingredients:
+{% highlight ruby %}
 _dip_
 - 4 beets, trimmed
 - 3 garlic cloves
@@ -24,28 +29,22 @@ _Garnishes_
 - Hazelnuts or pine nuts
 - Green onions
 - Shallots
+{% endhighlight %}
 
-
-###### Method
+###### Method:
+{% highlight ruby %}
 Put the beets in a small baking pan with a small amount of water.  
 Roast in a 350 degree oven for 1 hour.  
 Peel and cut in half.  
 Add beets, garlic, yogurt, olive oil and chili powder in a food processor or blender.
 Set on pulse until smooth.
-
-{% highlight ruby %}
-Garnish with 
-    feta, 
-    hazelnuts, 
-    shallots and 
-    green onions.
 {% endhighlight %}
+
+** note**: Garnish with feta, hazelnuts, shallots and green onions.
 
 ---
 
 ![BeetDip2][3]
 
-[2]: http://sugarandcharm.com/scwp/wp-content/uploads/2013/10/BeetDip.jpg
+---
 [3]: http://sugarandcharm.com/scwp/wp-content/uploads/2013/10/BeetDip2.jpg
-[4]: http://sugarandcharm.com/scwp/wp-content/uploads/2013/10/BeetDip3.jpg
-
