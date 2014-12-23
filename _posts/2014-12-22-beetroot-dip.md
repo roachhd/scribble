@@ -4,7 +4,7 @@ title: Sugar &amp; Charm
 date: 2014-12-22 16:30:00
 disqus: y
 share: y
-tags: [snack, entertainer, starter]
+tags: [starter, party]
 ---
 
 # Sugar and Charm 
