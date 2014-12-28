@@ -14,7 +14,7 @@ If you think you don't like beets, you haven't had them like this! The vibrant c
 
 ---
 
-###### Ingredients:
+#### Ingredients:
 {% highlight ruby %}
 _dip_
 - 4 beets, trimmed
@@ -31,7 +31,7 @@ _Garnishes_
 - Shallots
 {% endhighlight %}
 
-###### Method:
+#### Method:
 {% highlight ruby %}
 Put the beets in a small baking pan with a small amount of water.  
 Roast in a 350 degree oven for 1 hour.  
@@ -40,7 +40,7 @@ Add beets, garlic, yogurt, olive oil and chili powder in a food processor or ble
 Set on pulse until smooth.
 {% endhighlight %}
 
-** note**: Garnish with feta, hazelnuts, shallots and green onions.
+**note**: Garnish with feta, hazelnuts, shallots and green onions.
 
 ---
 
