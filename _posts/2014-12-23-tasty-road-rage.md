@@ -10,7 +10,7 @@ tags: [party, dessert]
 # Tiny Teddy Racers
 
 
-###### Ingredients
+#### Ingredients
 {% highlight ruby %}
 - 100g cooking chocolate, melted
 - 1 bag Milky Way bars
@@ -19,7 +19,7 @@ tags: [party, dessert]
 {% endhighlight %}
 
 
-###### Method
+#### Method
 {% highlight ruby %}
 Prep: 
  Set out a tray or serving plate for the Teddies.
